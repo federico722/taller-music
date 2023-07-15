@@ -1,0 +1,201 @@
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    position: relative;
+    background-image: url("../images/angel.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+}
+
+header h1 {
+    color: white;
+    font-size: 160px;
+    font-weight: bold;
+}
+
+.container {
+    position: relative;
+    z-index: 2;
+}
+
+.content {
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+}
+
+div.container{
+    height: 713.6px;
+    width: 986.4px;
+}
+
+img{
+    height: 600px;
+    width: 400px;
+    padding: 100px 0px 0px 0px;
+}
+
+div.content{
+    padding: 100px 30px 0px 10px ;
+    text-align: left;
+    float: left;
+}
+
+p{
+    padding: 10px 0px 10px 0px ;
+    
+}
+
+h2{
+    font-size: 60px;
+}
+
+.color{
+    color: rgb(249, 72, 8);
+}
+
+p{
+    font-size: 20px;
+}
+
+div.container-2{
+    height: 713.6px;
+    width: 986.4px;
+}
+
+article.flotante{
+    float: left;
+}
+
+p.borde{
+    border: 1px solid rgb(240, 12, 54);
+    width: 180px;
+    text-align: center;
+    background-color: rgb(240, 12, 54);
+}
+
+article.padding{
+    padding: 160px 0px 0px 500px ;
+}
+
+h3{
+    font-size: 40px;
+}
+
+img.cambio-1{
+    padding: 100px 0px 0px 50px;
+}
+
+
+.color-1{
+    color: rgb(249, 72, 8);
+}
+
+
+.borde-1{
+    border: 1px solid rgb(240, 12, 54);
+    background-color: rgb(240, 12, 54);
+    width: 180px;
+    text-align: center;
+}
+
+
+
+
+div.container-3{
+    background-image: url("../images/raptis.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+}
+
+p.Y{
+    color: aliceblue;
+}
+
+
+h4{
+    color: aliceblue;
+    font-size: 50px;
+}
+
+p.border-2{
+    border: 1px solid rgb(240, 12, 54);
+    background-color: rgb(240, 12, 54);
+    width: 180px;
+    text-align: center;
+}
+
+div.content-3{
+    margin: 0px 0px 0px 800px ;
+}
+
+
+div.container-4{
+    background-color: rgb(255, 0, 81);
+    height: 50vh;
+    z-index: 1;
+}
+
+
+nav ul  {
+    list-style-type: none;
+}
+
+a.prueba{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+
+.container-4 {
+    display: flex;
+    justify-content: center;
+    
+  }
+  
+  .content-4 nav ul {
+    display: flex;
+  }
+  
+  .content-4 li {
+    margin: 30px 200px 0px 0px ;
+    
+  }
+  
+footer{
+    float: left;
+    padding: 20px;
+    margin: 0px 0px 0px 180px ;
+    color: aliceblue;
+}
+
+.ultima{
+padding: 30px;
+margin: 0px 0px 0px 1100px;
+color: aliceblue;
+}
+
+section.x{
+    background-color: rgb(255, 0, 81);;
+}
+
+
+
+
